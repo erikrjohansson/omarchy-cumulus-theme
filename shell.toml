@@ -1,0 +1,132 @@
+# Cumulus: one sky-blue surface everywhere; selected rows are a solid brighter sky.
+# Poppy orange marks what needs you: bar alerts and the notification countdown.
+
+[bar]
+background = "#193e58"
+background-alpha = 0.98
+text = "#eee2cc"
+active = "#fba35e"
+scale-with-font = true
+size-horizontal = 26
+size-vertical = 28
+
+[hyprland]
+active-border = "#6ba7d8"
+active-border-foreground = "#6ba7d8"
+
+[controls]
+normal-color = "#eee2cc"
+normal-fill-alpha = 0.04
+normal-border = "#eee2cc"
+normal-border-width = 1
+normal-border-alpha = 0.4
+hover-cursor-color = "#77baf3"
+hover-cursor-fill-alpha = 0.10
+hover-cursor-border = "#77baf3"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.35
+focus-color = "#77baf3"
+focus-fill-alpha = 0.10
+focus-border = "#77baf3"
+focus-border-width = 1
+focus-border-alpha = 0.65
+selected-color = "#77baf3"
+selected-fill-alpha = 0.18
+selected-border = "#77baf3"
+selected-border-width = 0
+selected-border-alpha = 1.0
+pressed-fill-alpha = 0.22
+selection-fill-alpha = 0.35
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 1
+
+[tooltip]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+border = "hyprland.active-border-foreground"
+border-alpha = 1.0
+
+[notifications]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+border = "hyprland.active-border"
+border-alpha = 1.0
+border-width = 1
+countdown = "#fba35e"
+
+[launcher]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+border = "hyprland.active-border-foreground"
+border-alpha = 1.0
+scrim = "#0f2d42"
+scrim-alpha = 0.35
+selected-background = "#1a6492"
+selected-background-alpha = 1.0
+selected-text = "#eee2cc"
+selected-border = "#77baf3"
+selected-border-alpha = 0.5
+
+[menu]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+border = "hyprland.active-border-foreground"
+border-alpha = 1.0
+scrim = "#0f2d42"
+scrim-alpha = 0.35
+selected-background = "#1a6492"
+selected-background-alpha = 1.0
+selected-text = "#eee2cc"
+selected-border = "#77baf3"
+selected-border-alpha = 0.5
+
+[polkit]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+text-error = "#ff8e7c"
+border = "hyprland.active-border"
+border-error = "#ff8e7c"
+border-alpha = 1.0
+scrim = "#0f2d42"
+scrim-alpha = 0.5
+accent = "#77baf3"
+
+[lock]
+background = "#193e58"
+background-alpha = 0.95
+text = "#eee2cc"
+placeholder = "#c9c2b6"
+text-error = "#ff8e7c"
+border = "hyprland.active-border"
+border-active = "hyprland.active-border"
+border-error = "#ff8e7c"
+border-alpha = 1.0
+selection = "#77baf3"
+selection-alpha = 0.45
+
+[image-picker]
+scrim = "#0f2d42"
+scrim-alpha = 0.5
+text = "#eee2cc"
+selected-border = "#77baf3"
+selected-border-alpha = 1.0
+unselected-border = "#eee2cc"
+unselected-border-alpha = 0.28

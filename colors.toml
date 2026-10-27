@@ -1,0 +1,37 @@
+# Cumulus: the summer sky behind the clouds. Painted-sky blue, cloud cream, poppy orange.
+mode = "dark"
+
+accent = "#77baf3"
+selection = "#1a6492"
+selection_foreground = "#f3e8d5"
+muted = "#85a1b8"
+
+# Window edge: the sky, from its deep top to the haze near the horizon.
+hyprland_active_border = "#6ba7d8"
+hyprland_inactive_border = "#316184"
+
+background = "#193e58"
+dark_background = "#14374f"
+darker_background = "#0f2d42"
+lighter_background = "#254b67"
+
+foreground = "#eee2cc"
+dark_foreground = "#c9c2b6"
+light_foreground = "#f3e8d5"
+bright_foreground = "#faf3e6"
+
+red = "#ff8e7c"
+yellow = "#ebcf70"
+orange = "#fba35e"
+green = "#a9c972"
+cyan = "#83c5d3"
+blue = "#86c2ff"
+magenta = "#f7a0d3"
+brown = "#d9a173"
+
+bright_red = "#ffbdb2"
+bright_yellow = "#f6d78c"
+bright_green = "#c7e49c"
+bright_cyan = "#aadee9"
+bright_blue = "#bcdcff"
+bright_magenta = "#ffc8e6"

@@ -1,0 +1,2 @@
+# Local only: Omarchy does not load a theme gtk.css (stock themes ship none); kept for this machine
+gtk.css
